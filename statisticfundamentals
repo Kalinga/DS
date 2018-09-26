@@ -1,0 +1,24 @@
+From Quora: https://www.quora.com/How-much-knowledge-of-statistics-is-needed-to-be-a-data-scientist
+https://www.equiskill.com/
+
+Thorough knowledge of Probability, Probability Distribution and how data can be classified and studied with the help of probability distributions.
+Clear and succinct knowledge of Correlation and Regression. Within Regression you may need to explore Simple, Logistic and Multiple Regression modelling and estimating regression parameters.
+Thorough understanding of testing of Hypothesis process and various tests of hypotheses such as T-Test, Z-Test, F-Test, ANOVA, etc.
+Fundamentals of advance techniques such as Cluster Analysis, Discriminant Analysis, Factor Analysis, etc.
+Basic understanding Simulation Modelling and related techniques.
+
+Types of variables: Nominal , Categorical and Ordinal
+Sample and population difference and facets
+Measures of Central tendency - Mean Median Mode illustrated with data
+Data Probability distributions like Normal, Poisson and more and their significance in analytics.
+Estimation techniques for Analytics
+Hypothesis testing for data analtyics
+
+Statistics and probability theory,
+Probability distributions,
+Hypothesis testing,
+Statistical modeling and fitting,
+Machine Learning,
+Regression analysis,
+Bayesian thinking and modeling, and
+Markov Chains
