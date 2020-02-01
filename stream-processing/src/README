@@ -1,0 +1,15 @@
+1. Install kafka_2.12-2.4.0, Python 3
+
+2. Install Python module confluent-kafka, kafka-python
+
+3. Start the server:(from kafka_2.12-2.4.0 binaries)
+	bin/zookeeper-server-start.sh config/zookeeper.properties &
+	bin/kafka-server-start.sh config/server.properties & 
+
+4. Get inside src directory
+
+5. Copy mock_data.json to src/
+
+6. python kafka-producer.py
+
+7. python kafka-consumer.py
